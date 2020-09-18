@@ -1,0 +1,17 @@
+ACER@LAPTOP-LDKP4EBB MINGW64 ~/Desktop/command line (master)
+$ mkdir ex3
+
+ACER@LAPTOP-LDKP4EBB MINGW64 ~/Desktop/command line (master)
+$ cd ex3
+
+ACER@LAPTOP-LDKP4EBB MINGW64 ~/Desktop/command line/ex3 (master)
+$ touch example.txt
+
+ACER@LAPTOP-LDKP4EBB MINGW64 ~/Desktop/command line/ex3 (master)
+$ nano example.txt
+
+In the nano:
+ctrl+o: save file without exit
+ctrl+x (choose y/n): choose save or not and exit file
+ctrl+k: cut the line  
+ctrl+u: paste the line

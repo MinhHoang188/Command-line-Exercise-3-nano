@@ -1,0 +1,6 @@
+ctrl+o: save file without exit
+ctrl+x (choose y/n): choose save or not and exit file
+ctrl+k: cut the line  
+ctrl+u: paste the line
+
+this is the exercise3
